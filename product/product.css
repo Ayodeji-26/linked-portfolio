@@ -1,0 +1,146 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.title1 {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin: 10px;
+}
+
+header {
+  background-color: red;
+  position: sticky;
+  top: 0;
+  margin-top: 20px;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+  display: inline-block;
+  padding: 10px;
+}
+
+.wear{
+  margin-top: 10px;
+  
+  
+}
+
+ .wear h1{
+  margin-top: 10px;
+  font-size: 30px;
+  
+  
+  
+  
+}
+
+.lesson1{
+  margin-left: 500px;
+}
+
+.wears{
+  margin-top: 20px;
+  margin-left:40px ;
+}
+
+.lesson2{
+  display: flex;
+}
+
+.btn1 {
+  background-color: red;
+  color: white;
+  width: 120px;
+  height: 30px;
+  border-radius: 5px;
+  line-height: 2em;
+}
+
+.wears P {
+  line-height: 2em;
+}
+
+.funiture{
+  margin-top: 20px;
+  margin-left:40px ;
+}
+
+.btn1 {
+  background-color: red;
+  color: white;
+  width: 120px;
+  height: 30px;
+  border-radius: 5px;
+  line-height: 2em;
+}
+
+.funiture P {
+  line-height: 2em;
+}
+
+.wear h2{
+  margin-top: 30px;
+  font-size: 30px;
+}
+
+.shop1 {
+  margin-top: 50px;
+  width: 20%;
+  height: 8vh;
+  background-color: red;
+  margin-left: 500px;
+}
+
+.shop1 h4{
+  margin-left: 50px;
+  padding-top: 20px;
+  font-size: 20px;
+  color: white;
+  letter-spacing: 15px;
+  
+}
+
+.subscribe{
+  margin: 50px;
+  padding-left: 400px;
+  line-height: 3em;
+  
+}
+
+.subscribe h2{
+  font-size: 40px;
+  margin-left: -100px;
+}
+
+.subscribe p{
+margin-left: -50px;
+
+}
+
+.subscribe1{
+  display: flex;
+  padding-left: 50px;
+  justify-content: space-evenly;
+  line-height: 3em;
+  background-color: black;
+  color: white;
+  
+  
+}
+
+.subscribe1 h2{
+font-size: 40px;
+}
+
+.subscribe1 p{
+  color: blue;
+  font-size: 20px;
+  line-height: 4em;
+}
+

@@ -1,0 +1,164 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header {
+  background-color: red;
+  position: sticky;
+  top: 0;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+  display: inline-block;
+  padding: 20px;
+}
+
+.welcome {
+  margin: 20px;
+  border: 1px solid black;
+  border-radius: 20px;
+  background-color: white;
+}
+
+.welcome h2 {
+  width: 30%;
+  padding-left: 10px;
+  border: 1px solid black;
+  color:black;
+  background-color: red;
+  border-radius: 20px;
+}
+
+.payment1 p {
+  font-size: 40px;
+  margin-left: 400px;
+  font-weight: 20px;
+}
+.payment2 {
+  display: flex;
+  line-height: 2.5em;
+}
+
+.supplier {
+  margin: 20px;
+}
+
+.supplier1 {
+  margin-left: 500px;
+  padding-top: 20px;
+}
+
+.payment2 h3 {
+  font-size: 30px;
+}
+
+.card {
+  display: flex;
+  margin-top: 30px;
+  padding-left: 20px;
+}
+
+.date {
+  margin-left: 650px;
+  font-size: 20px;
+}
+
+.paypal {
+  line-height: 2em;
+}
+
+.detail {
+  display: flex;
+  justify-content: space-between;
+  margin: 20px;
+  padding: 10px;
+  background-color: red;
+  color: white;
+}
+
+.detail1 {
+  font-size: 20px;
+  padding: 10px;
+}
+
+.detail2 {
+  font-size: 20px;
+  padding: 10px;
+}
+
+.btn1 {
+  width: 8%;
+  height: 8vh;
+  background-color: red;
+  color: white;
+  margin-left: 50px;
+  border-radius: 10px;
+  cursor: grab;
+}
+
+.note1{
+  margin: 10px;
+}
+
+.price{
+  border: 1px solid black;
+  width: 50%;
+  height: 8vh;
+  font-size: 30px;
+  margin-left: 600px;
+  
+}
+
+
+.note{
+  display: flex;
+}
+
+.taxes{
+  margin-left: 40px;
+  font-size: 20px;
+}
+
+.shop1 {
+  margin-top: 50px;
+  width: 20%;
+  height: 8vh;
+  background-color: red;
+  margin-left: 500px;
+}
+
+.shop1 h4{
+  margin-left: 50px;
+  padding-top: 20px;
+
+  font-size: 20px;
+  color: white;
+  letter-spacing: 15px;
+  
+}
+
+.subscribe1{
+  display: flex;
+  padding-left: 50px;
+  justify-content: space-evenly;
+  line-height: 2em;
+  background-color: black;
+  color: white;
+  margin-top: 40px;
+  
+  
+}
+
+.subscribe1 h2{
+font-size: 40px;
+}
+
+.subscribe1 p{
+  color: white;
+  font-size: 20px;
+  line-height: 2.5em;
+}
